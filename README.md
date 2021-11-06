@@ -1,12 +1,12 @@
-[5-ое задание](https://github.com/InRectoVirtus/HW3-js-functions#4-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
-[6-ое задание](https://github.com/InRectoVirtus/HW3-js-functions#5-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
-[7-ое задание](https://github.com/InRectoVirtus/HW3-js-functions#6-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
-[8-ое задание](https://github.com/InRectoVirtus/HW3-js-functions#7-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
-[9-ое задание](https://github.com/InRectoVirtus/HW3-js-functions#8-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
-[10-ое задание](https://github.com/InRectoVirtus/HW3-js-functions#9-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
-[11-ое задание](https://github.com/InRectoVirtus/HW3-js-functions#9-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
-[12-ое задание](https://github.com/InRectoVirtus/HW3-js-functions#9-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
-[13-ое задание](https://github.com/InRectoVirtus/HW3-js-functions#9-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[5-ое задание](https://github.com/InRectoVirtus/HW4-js-array#5-%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[6-ое задание](https://github.com/InRectoVirtus/HW4-js-array#5-%D0%BE%D0%B6-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[7-ое задание](https://github.com/InRectoVirtus/HW4-js-array#5-%D0%BE%D0%B7-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[8-ое задание](https://github.com/InRectoVirtus/HW4-js-array#5-%D0%BE%D0%B8-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[9-ое задание](https://github.com/InRectoVirtus/HW4-js-array#5-%D0%BE%D0%B9-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[10-ое задание](https://github.com/InRectoVirtus/HW4-js-array#5-%D0%BE%D0%B10-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[11-ое задание](https://github.com/InRectoVirtus/HW4-js-array#5-%D0%BE%D0%B11-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[12-ое задание](https://github.com/InRectoVirtus/HW4-js-array#5-%D0%BE%D0%B12-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
+[13-ое задание](https://github.com/InRectoVirtus/HW4-js-array#5-%D0%BE%D0%B13-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5)  
 #  5-ое задание # 
 
 ## Замените код Function Expression стрелочной функцией ##  
